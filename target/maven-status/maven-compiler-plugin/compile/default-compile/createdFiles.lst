@@ -1,0 +1,6 @@
+org\springframework\amqp\tutorials\tut1\Tut1Sender.class
+org\springframework\amqp\tutorials\RabbitAmqpTutorialsApplication$1.class
+org\springframework\amqp\tutorials\RabbitAmqpTutorialsRunner.class
+org\springframework\amqp\tutorials\tut1\Tut1Receiver.class
+org\springframework\amqp\tutorials\tut1\Tut1Config.class
+org\springframework\amqp\tutorials\RabbitAmqpTutorialsApplication.class
